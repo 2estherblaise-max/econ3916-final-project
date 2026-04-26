@@ -34,8 +34,7 @@ for early intervention before a default occurs.
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
 | Logistic Regression (baseline) | 0.810 | 0.693 | 0.237 | 0.352 |
-| Random Forest | ~0.820 | ~0.670 | ~0.440 | ~0.530 |
-
+| Random Forest | 0.819 | 0.664 | 0.353 | 0.461 |
 > **Note:** Random Forest improves recall substantially over Logistic Regression, which is
 > the more important metric for identifying at-risk clients.
 
