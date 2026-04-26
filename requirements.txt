@@ -4,4 +4,3 @@ numpy
 scikit-learn
 matplotlib
 ucimlrepo
-pillow==10.3.0
